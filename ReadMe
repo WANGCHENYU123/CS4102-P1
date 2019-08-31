@@ -1,0 +1,3 @@
+
+cd /pathToProject/CS4102-p1/src javac *.java
+java Main
